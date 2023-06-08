@@ -1,6 +1,6 @@
 
-<img align="middle" alt="coding" width="1100" height="300" src="https://github.com/Ashwini59/Ashwini59/assets/96874553/8988ac7f-797e-490f-998c-6ca94972fc60">
 <h1 align="center">Hi 👋, I'm Ashwini Bhopalgade</h1>
+<img align="middle" alt="coding" width="1100" height="300" src="https://github.com/Ashwini59/Ashwini59/assets/96874553/8988ac7f-797e-490f-998c-6ca94972fc60">
 <h3 align="center">A passionate software from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
