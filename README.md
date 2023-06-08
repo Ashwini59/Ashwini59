@@ -1,4 +1,4 @@
-https://github.com/Ashwini59/Ashwini59/assets/96874553/2233308b-9fc1-4571-af93-ad0c797864f2
+
 
 <h1 align="center">Hi 👋, I'm Ashwini Bhopalgade</h1>
 <h3 align="center">A passionate software from India</h3>
