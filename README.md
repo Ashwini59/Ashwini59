@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini59&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini59" /> </p>
 
-- 🔭 I’m currently working on **Gear Hob detection Project**
 
 - 🌱 I’m currently learning **Machine Learning , YOLOv5 , TensorFlow**
 
