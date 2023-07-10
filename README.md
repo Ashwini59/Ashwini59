@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , SQL , TensorFlow**
 
-- 💬 Ask me about **openCV , YOLO **
+- 💬 Ask me about **openCV , YOLO**
 
 - 📫 How to reach me **ashwinibhopalgade@gmail.com**
 
