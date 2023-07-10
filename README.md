@@ -16,9 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini59&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini59" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning , YOLOv5 , TensorFlow**
+- 🌱 I’m currently learning **Machine Learning , SQL , TensorFlow**
 
-- 💬 Ask me about **openCV , YOLO**
+- 💬 Ask me about **openCV , YOLO **
 
 - 📫 How to reach me **ashwinibhopalgade@gmail.com**
 
